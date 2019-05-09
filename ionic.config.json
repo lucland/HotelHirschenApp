@@ -1,5 +1,7 @@
 {
   "name": "hotelhirschen",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
